@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "aqeel@ADL123",
+    "database": "TutorialDB",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "b1516f8ed04f4c",
+    "password": "4a1f474b",
+    "database": "heroku_b7e8a5719784539",
+    "host": "us-cdbr-east-06.cleardb.net",
+    "dialect": "mysql"
+  }
+}
